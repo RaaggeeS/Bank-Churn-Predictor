@@ -6,19 +6,19 @@ Notebook Link: https://www.kaggle.com/code/raaggeesingh/playground-series-s4-ep1
 The dataset consisted of features which intrpret whether a customer exited or continue with their account.
 
 ## 2. What do the column describe?
-CustomerID - ID of customer
-Surname - Surname of the customer
-CreditScore - Represents the credit score
-Geography - Country where the customer resides
-Gender - Male or Female
-Age - Age of the customer
-Tenure - Customer's tenure with the bank
-Balance - Customer's balance
-NumOfProducts - Number of products opted by customer for the bank
-HasCrCard - Whether a customer has a credit card
-IsActiveMember - Whether a customer is active user of bank
-EstimatedSalary - Estimated Salary of the Customer
-Exited - Depicts if the person still with bank or not.
+-CustomerID - ID of customer
+-Surname - Surname of the customer
+-CreditScore - Represents the credit score
+-Geography - Country where the customer resides
+-Gender - Male or Female
+-Age - Age of the customer
+-Tenure - Customer's tenure with the bank
+-Balance - Customer's balance
+-NumOfProducts - Number of products opted by customer for the bank
+-HasCrCard - Whether a customer has a credit card
+-IsActiveMember - Whether a customer is active user of bank
+-EstimatedSalary - Estimated Salary of the Customer
+-Exited - Depicts if the person still with bank or not.
 
 ## 3. What approach we followed here?
 a. Data Preprocessing:
